@@ -16,16 +16,14 @@ public class Work {
 
 	 /**
 	 * Java本格入門8章
-	 * ファイル操作 
+	 * ファイル操作
 	 * 
 	 * @author kengo-t
 	 *
 	 */
 	
 	public static void main(String[] args) {
-		
-		
-		//8章まとめドキュメント読み込みここに
+	
 	
 		/*
 		 * studentファイル（行ごとに　名前,スコア）を読み込み、
